@@ -1,0 +1,41 @@
+.programms{
+    width: 90%;
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.program img{
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+.program{
+    flex-basis: 31%;
+    position: relative;
+}
+.caption{
+    position: absolute ;
+    border-radius: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 15, 152, 0.3);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;color: #fff;
+    padding-top: 70% ;
+    opacity: 0;
+    transition: 0.4s;
+
+}
+.caption img{
+    width: 60px;
+    margin-bottom: 10px;
+}
+.program:hover .caption{
+    opacity: 1;
+    padding: 0 ;
+}
