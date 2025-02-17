@@ -45,8 +45,7 @@ const moveBackword = () =>{
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at
               accusantium minus omnis alias illum dolorem corrupti! Atque, velit
-              voluptatem. Lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Quibusdam, enim!
+              voluptatem. 
             </p>
             </div>
           </li>
@@ -62,8 +61,7 @@ const moveBackword = () =>{
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at
               accusantium minus omnis alias illum dolorem corrupti! Atque, velit
-              voluptatem. Lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Quibusdam, enim!
+              voluptatem.
             </p>
             </div>
           </li>
@@ -79,8 +77,7 @@ const moveBackword = () =>{
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at
               accusantium minus omnis alias illum dolorem corrupti! Atque, velit
-              voluptatem. Lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Quibusdam, enim!
+              voluptatem. 
             </p>
             </div>
           </li>
@@ -96,8 +93,7 @@ const moveBackword = () =>{
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae at
               accusantium minus omnis alias illum dolorem corrupti! Atque, velit
-              voluptatem. Lorem ipsum dolor sit amet consectetur adipisicing
-              elit. Quibusdam, enim!
+              voluptatem. 
             </p>
             </div>
           </li>

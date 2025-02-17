@@ -19,3 +19,14 @@ a{
   background-color: #212EA0;
   color: #fff;
 }
+
+/* media queery */
+
+@media (max-width:1200px){
+  .container{
+    padding: 0 5% ;
+  }
+  .btn{
+    padding: 14px 22px;
+  }
+}
